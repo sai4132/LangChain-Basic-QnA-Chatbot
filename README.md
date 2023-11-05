@@ -1,3 +1,6 @@
+# Objective: To know and learn basics about LangChain
+Open and run langchain.ipynb notebook to learn and understand it step by step.
+
 # LangChain-Basic-QnA-Chatbot
 
 Generate OpenAI API key:
