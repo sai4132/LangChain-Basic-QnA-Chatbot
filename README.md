@@ -2,7 +2,7 @@
 
 Generate OpenAI API key:
 
-API key = ~you can get from openai account~
+API key = Click [here]{https://platform.openai.com/account/api-keys} and get your own
 
 Create environment:
 
@@ -16,5 +16,5 @@ Create a .env file and store openai api key
 See open ai models for different models
 See huggingface for access tokens and models
 
-Hugging face token = ~you can get from huggingface account~
+Hugging face token = Click [here]{https://huggingface.co/settings/tokens} and get your own
 
